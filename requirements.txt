@@ -3,3 +3,6 @@ numpy==1.24.3
 opencv-python-headless
 Pillow
 streamlit==1.25.0
+tensorflow
+tensorflow-estimator
+tensorflow-intel
